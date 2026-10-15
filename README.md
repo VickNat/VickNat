@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m a Front-end developer<br>🌱 I’m currently learning Full-stack development<br>💬 Ask me about Data structures and algorithms, front-end development<br>⚡ Contact me: natanimashenafi20@gmail.com
+🔭 I’m a Full-stack developer<br>🌱 I’m currently learning system design<br>💬 Ask me about Data structures and algorithms, full-stack development<br>⚡ Contact me: natanimashenafi20@gmail.com
 
 
 ## 🌐 Socials:
